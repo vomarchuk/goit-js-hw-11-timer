@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-11-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "timer": "nodemon ./src/timer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vomarchuk/goit-js-hw-11-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vomarchuk/goit-js-hw-11-timer/issues"
+  },
+  "homepage": "https://github.com/vomarchuk/goit-js-hw-11-timer#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
